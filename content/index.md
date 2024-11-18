@@ -1,11 +1,12 @@
 ---
 Title: Home
 Description: This is our index page.
+icon: fa fa-home
 ---
 
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+Hej, jag heter Paula! Jag är 24 år och kommer från Gnesta, men bor just nu i Linköping. På fritiden gillar jag att styrketräna, baka, kolla film och spela Nintendo Switch.
 
-This is a sample home page written in markdown with some frontmatter defined.
+![me](%assets_url%/img/clayme.jpg) {.me}
