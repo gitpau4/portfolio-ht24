@@ -1,5 +1,16 @@
+// variables
+// color
 $font-color: #333;
+$font-hover-color: #33333385;
 $font-alternative-color: #fff;
-$accent-color: #ee6c4d;
-$background-color: #3d5a80;
-$background-alternative-color: #e0fbfc;
+$accent-color: #500619;
+$background-color: #ffffff;
+$background-alternative-color: #27292c;
+
+// mixins
+@mixin flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
