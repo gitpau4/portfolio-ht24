@@ -1,19 +1,19 @@
 .footer {
-    @include flex-container;
-    padding: 2rem;
+  @include flex-container;
+  padding: 2rem;
 
-    background-color: $background-alternative-color;
-    color: $font-alternative-color;
-
-    .social {
-        a {
-            text-decoration: none;
-            font-size: 3rem;
-            color: $font-alternative-color;
-        }
-
-        a:hover {
-            color: $font-alternative-hover-color;
-        }
-    }
+  background-color: $background-alternative-color;
+  color: $font-alternative-color;
 }
+
+.footer .social {
+    a {
+      text-decoration: none;
+      font-size: 3rem;
+      color: $font-alternative-color;
+    }
+
+    a:hover {
+      color: $font-alternative-hover-color;
+    }
+  }

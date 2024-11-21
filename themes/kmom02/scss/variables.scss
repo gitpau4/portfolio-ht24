@@ -7,14 +7,14 @@ $font-alternative-hover-color: #ffffff93;
 
 $accent-color: #500619;
 
-$background-color: #ffffff;
+$background-color: #fff;
 $background-alternative-color: #27292c;
 $background-header-color: #c8abc9;
 
 // mixins
 @mixin flex-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }

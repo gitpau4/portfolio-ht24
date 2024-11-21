@@ -1,18 +1,23 @@
 html {
-    font-size: 100%;
+  font-size: 100%;
 }
 
 body {
-    font-size: 1em;
-    line-height: 1.5;
-    font-family: "Work Sans", sans-serif;
-    color: $font-color;
+  font-size: 1em;
+  line-height: 1.5;
+  font-family: 'Work Sans', sans-serif;
+  color: $font-color;
 }
 
 p {
-    margin-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Merriweather", serif;
+h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+  font-family: 'Merriweather', serif;
 }
