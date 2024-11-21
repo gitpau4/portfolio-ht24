@@ -1,0 +1,7 @@
+// trodde att normalize.css skulle fixa sånt, men fick konstigt fel på headern så att jag fick en horisontell scroll
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
