@@ -7,13 +7,13 @@
 }
 
 .footer .social {
-    a {
-      text-decoration: none;
-      font-size: 3rem;
-      color: $font-alternative-color;
-    }
-
-    a:hover {
-      color: $font-alternative-hover-color;
-    }
+  a {
+    text-decoration: none;
+    font-size: 3rem;
+    color: $font-alternative-color;
   }
+
+  a:hover {
+    color: $font-alternative-hover-color;
+  }
+}
