@@ -1,0 +1,19 @@
+$font-color-good: #333;
+$font-color-bad: #979797;
+
+.old-fashioned {
+    font-family: "Merriweather", serif;
+    color: $font-color-good;
+}
+
+.modern {
+    font-family: "Work Sans", sans-serif;
+    color: $font-color-good;
+}
+
+.worst-ever {
+    line-height: 2;
+    letter-spacing: -2px;
+    font-weight: bold;
+    color: $font-color-bad;
+}
