@@ -13,6 +13,6 @@ Twig används för att strukturera sidornas layout, till exempel header, naviger
 
 Sidornas innehåll skrivs i Markdown. Det som skrivs i Markdown konverteras sedan till HTML.
 
-SASS är en preprocessor till CSS. Med SASS kan en modulär struktur skapas som blir enkel att jobba med. Man kan även skapa variabler, mixins och nestlad CSS, vilket gör det smidigare att styla en hel hemsida.
+SASS är en preprocessor till CSS. Med SASS kan en modulär struktur skapas som blir enkel att jobba med. Man kan även skapa variabler, mixins och nästlad CSS, vilket gör det smidigare att styla en hel hemsida.
 
 Git är ett versionshanteringssystem och på webbplatsen GitHub kan man publicera sin kod succesivt. Detta gör att man kan se historik över sin kod och det underlättar även om man är fler personer som jobbar med samma kod.
