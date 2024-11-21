@@ -1,7 +1,7 @@
 ---
 Title: Home
 Description: This is our index page.
-icon: fa fa-home
+icon: fas fa-home
 ---
 
 Home page
