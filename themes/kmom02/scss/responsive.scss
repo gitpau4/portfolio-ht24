@@ -1,4 +1,26 @@
+// Saker att fixa:
+// Göra så att header text minskar när skärmen är liten, typ med clamp()
+// nav menyn måste bli mindre när skärmen blir mindre, kanske också clamp()
+// loggan blir väldigt liten ibland, kanske måste ha en min-size?
+
 img {
   max-width: 100%;
   display: block;
+}
+
+@media (max-width: 517px) {
+    .box {
+      grid-column: span 3 !important;
+    }
+}
+
+@media (max-width: 683px) {
+  .technology {
+    flex-direction: column-reverse;
+  }
+
+  .technology .article,
+  .technology .menu {
+    width: 100%;
+  }
 }
