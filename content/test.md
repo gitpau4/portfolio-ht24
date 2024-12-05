@@ -1,7 +1,3 @@
----
-Title: Test
-Description: This is a test page.
----
 
 Test
 ======

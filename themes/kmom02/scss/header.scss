@@ -1,5 +1,5 @@
 .header {
-  background-color: $background-header-color;
+  background-color: $header-background;
 
   @include flex-container;
   width: 100%;
@@ -15,22 +15,28 @@
   }
 
   a {
-    color: $font-color;
+    color: $header-nav;
     text-decoration: none;
   }
 
   a:hover {
-    color: $font-hover-color;
+    color: $header-nav-hover !important;
+  }
+
+  .logo img {
+    height: 160px;
   }
 }
 
 .nav {
   a {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     text-decoration: none;
+    color: $header-nav !important;
   }
 
   a:hover {
-    color: $font-hover-color;
+    color: $header-nav-hover !important;
+    background-color: $header-nav-hover-back;
   }
 }

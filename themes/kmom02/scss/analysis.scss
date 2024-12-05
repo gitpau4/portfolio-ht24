@@ -3,7 +3,14 @@
 .box.colors,
 .box.load,
 .box.design-principles {
-  background-color: $tech-color-3;
+  color: $box-color-3;
+  background-color: $box-color-2;
+}
+
+.box.colors:hover,
+.box.load:hover,
+.box.design-principles:hover {
+  background-color: $box-color-2-hover;
 }
 
 .color-table {

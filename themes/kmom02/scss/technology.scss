@@ -16,44 +16,48 @@
   padding: $magic-number;
   border-radius: 15px;
   text-decoration: none;
-  color: $tech-color-2;
 }
 
 .box.css {
   grid-column: 1/2;
-  background-color: $tech-color-1;
+  background-color: $box-color-1;
+  color: $box-text-light;
 }
 
 .box.html {
   grid-column: 2/4;
-  background-color: $tech-color-2;
-  color: $tech-color-1;
+  background-color: $box-color-2;
+  color: $box-text-dark;
 }
 
 .box.javascript {
   grid-column: 1/3;
-  background-color: $tech-color-3;
+  background-color: $box-color-3;
+  color: $box-text-light;
 }
 
 .box.php {
   grid-column: 3/4;
-  background-color: $tech-color-1;
+  background-color: $box-color-1;
+  color: $box-text-light;
 }
 
 .box.python {
   grid-column: span 3;
-  background-color: $tech-color-2;
-  color: $tech-color-1;
+  background-color: $box-color-2;
+  color: $box-text-dark;
 }
 
 .box.git {
   grid-column: 1/2;
-  background-color: $tech-color-1;
+  background-color: $box-color-1;
+  color: $box-text-light;
 }
 
 .box.sqlite {
   grid-column: 2/4;
-  background-color: $tech-color-3;
+  background-color: $box-color-3;
+  color: $box-text-light;
 }
 
 .box:hover {
@@ -63,17 +67,17 @@
 .box.css:hover,
 .box.php:hover,
 .box.git:hover {
-  background-color: $tech-color-1-hover;
+  background-color: $box-color-1-hover;
 }
 
 .box.html:hover,
 .box.python:hover {
-  background-color: $tech-color-2-hover;
+  background-color: $box-color-2-hover;
 }
 
 .box.javascript:hover,
 .box.sqlite:hover {
-  background-color: $tech-color-3-hover;
+  background-color: $box-color-3-hover;
 }
 
 .technology {

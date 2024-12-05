@@ -2,21 +2,42 @@
 // color
 $font-color: #333;
 $font-hover-color: #33333385;
-$font-alternative-color: #fff;
-$font-alternative-hover-color: #ffffff93;
-
-$accent-color: #500619;
 
 $background-color: #fff;
-$background-alternative-color: #27292c;
-$background-header-color: #c8abc9;
 
-$tech-color-1: #1f3621;
-$tech-color-1-hover: #1f3621a9;
-$tech-color-2: #d8c8b8;
-$tech-color-2-hover: #d8c8b8ad;
-$tech-color-3: #78211e;
-$tech-color-3-hover: #78211ead;
+$code-edge-color: #ccc;
+$code-background-color: #f5f5f5;
+$table-hover-color: #E4D292;
+
+$footer-color: #302A36;
+
+$link-color: #245eaa;
+
+$header-background: #875258;
+$header-nav: #F4E8D0;
+$header-nav-hover-back: #E4D292;
+$header-nav-hover: #47313E;
+
+$box-color-1: #47313E;
+$box-color-1-hover: #47313ea1;
+$box-color-2: #E4D292;
+$box-color-2-hover: #e4d292a1;
+$box-color-3: #302A36;
+$box-color-3-hover: #302a369f;
+$box-text-light: #F4E8D0;
+$box-text-dark: #302A36;
+
+// plum color theme, ganska dovt
+$primary-color: #875258;
+// $primary-color-hover: #8752588f;
+// $secondary-color-1: #47313E;
+// $secondary-color-1-hover: #47313e96;
+// $secondary-color-2: #302A36;
+// $secondary-color-2-hover: #302a369a;
+// $accent-color: #E4D292;
+// $accent-color-hover: #e4d2928f;
+// $offwhite-color: #F4E8D0;
+// $offwhite-color-hover: #f4e8d0a1;
 
 // mixins
 @mixin flex-container {

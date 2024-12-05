@@ -1,5 +1,5 @@
 ---
-Logo: image/paula.png
+Logo: image/logo.png
 Tagline: My portfolio
 Social:
     - title: Länk till mitt github repo.
