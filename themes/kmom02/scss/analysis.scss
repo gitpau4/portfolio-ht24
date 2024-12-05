@@ -1,0 +1,17 @@
+/* analysis.scss */
+
+.box.colors,
+.box.load,
+.box.design-principles {
+  background-color: $tech-color-3;
+}
+
+.color-table {
+    border-spacing: 4px;
+    border-collapse: separate;
+
+    td {
+        height: 50px;
+        width: 50px;
+    }
+}

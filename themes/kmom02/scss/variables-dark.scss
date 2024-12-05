@@ -1,0 +1,30 @@
+// variables
+// color
+$font-color: #fff;
+$font-hover-color: #33333385;
+$font-alternative-color: #fff;
+$font-alternative-hover-color: #ffffff93;
+
+$accent-color: #500619;
+
+$background-color: #333;
+$background-alternative-color: #27292c;
+$background-header-color: #c8abc9;
+
+$tech-color-1: #1f3621;
+$tech-color-1-hover: #1f3621a9;
+$tech-color-2: #d8c8b8;
+$tech-color-2-hover: #d8c8b8ad;
+$tech-color-3: #78211e;
+$tech-color-3-hover: #78211ead;
+
+// mixins
+@mixin flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+// magic number
+$magic-number: 1.5rem;

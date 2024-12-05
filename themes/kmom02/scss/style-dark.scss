@@ -8,7 +8,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 @import '../../node_modules/normalize.css/normalize';
 @import 'reset';
-@import 'variables';
+@import 'variables-dark';
 
 @import 'typography';
 
@@ -16,6 +16,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'header';
 @import 'footer';
 @import 'technology';
+@import 'analysis';
 @import 'test';
 @import 'tables';
 
@@ -24,6 +25,6 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'mobile-menu';
 @import 'responsive';
 
-.main {
-    background-color: yellow;
-}
+// Ändra bakrungsfärg, textfärg, font, tex doc sidan kod text
+// Analogt tema till ljus, mer dov
+// Komplement till mörk, inte dov

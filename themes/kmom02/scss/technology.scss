@@ -1,4 +1,6 @@
 /* technology.scss */
+
+// Denna är just nu för båda landingpage (tech och analysis), kanske flytta över till analysis.scss också?
 .landingpage {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
