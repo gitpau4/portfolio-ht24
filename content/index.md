@@ -4,7 +4,7 @@ Description: This is our index page.
 icon: fas fa-home
 ---
 
-Home page
+Om mig
 ==========================
 
 Hej, jag heter Paula Frölander och är 24 år gammal. Jag är uppväxt i Gnesta, Sörmland, men just nu bor jag i Linköping.
