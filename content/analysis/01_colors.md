@@ -68,7 +68,7 @@ Färgerna som används på webbplatsen är #14121A, #27183E, #1B1625, #161323, #
 </tr>
 </table>
 
-Färgschemat är ett **monokromatiskt färgschema**, samma färg i olika nyanser/färgmättnad.
+Färgschemat är ett **analogt färgschema**.
 
 Typsnitt:
 - **H1 - H3**: Raleway, serif
@@ -116,11 +116,11 @@ Denna webbplats använder bara två färger, men två starka färger som ger ett
 
 ### Soumyajit
 
-Denna webbplats använder många olika nyanser av samma färg, lila. Från en väldigt mörk lila i bakgrunden till en ljuslila i text och andra detaljer, detta skapar ett djup till webbplatsen, så den känns nästan 3D. Typsnittet är densamma över hela webbplatsen, ett modern och balanserat sans-serif typsnitt skulle jag säga. Både det moderna typsnittet och det monokromatiska lila färgvalet bidrar till high tech känslan som webbplatsen ger.
+Denna webbplats använder två väldigt närliggande färger, lila och violett, i flera olika nyanser och färgmättnad. Till en början tänkte jag att färgschemat var monokromatiskt eftersom violett är så nära lila, att jag ser det som samma färg. Men när jag kollar på färgcirkeln ser jag ändå att de är tillräckligt långt ifrån för att vara två olika färger. Webbplatsens nyanser sträcker sig från en väldigt mörk lila i bakgrunden till en ljus violett i text och andra detaljer, detta skapar ett djup till webbplatsen, så den känns nästan 3D. Typsnittet är densamma över hela webbplatsen, ett modern och balanserat sans-serif typsnitt skulle jag säga. Både det moderna typsnittet och det analoga lila/violetta färgvalet bidrar till high tech känslan som webbplatsen ger.
 
 ### Olaolu
 
-Webbplatsen använder två väldigt närliggande nyanser av blå och en närliggande lila färg, samt en gul/grön på andra sidan färgcirkeln, alltså väldigt stor kontrast. Färgerna är kalla vilket ger en lugn och proffesionell känsla. Eftersom det finns två närligganade färger och en på motsatt sida, skulle man kunna kalla färgschemat för "split-complementary". Typsnittet är en sans-serif som känns modern och proffesionell.
+Webbplatsen använder två väldigt närliggande nyanser av blå och en närliggande lila färg, samt en gul/grön på andra sidan färgcirkeln, alltså väldigt stor kontrast. Färgerna är kalla vilket ger en lugn och proffesionell känsla. Eftersom det finns två närligganade färger och en på motsatt sida, skulle man kunna kalla färgschemat för "split-complementary". Typsnittet är en sans-serif som känns modern och proffesionell. Färgvalet och typsnittet ger webbplatsen därmed en modern och profesionell känsla, samtidigt som den ger ett starkt intryck på grund av den stora kontrasten mellan färgerna.
 
 Referenser
 -----------------------
