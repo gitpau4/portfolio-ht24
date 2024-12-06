@@ -11,7 +11,7 @@ body {
   // background-image: linear-gradient(to bottom right, $background-color, $offwhite-color);
   // background-attachment: fixed;
 
-  ::-moz-selection { // firefox
+  ::selection { // firefox
     color: $box-text-light;
     background: $primary-color;
   }

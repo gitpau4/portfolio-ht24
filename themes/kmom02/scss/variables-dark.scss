@@ -1,30 +1,30 @@
 // variables
 // color
-$font-color: #EAE4D8;
+$font-color: #eae4d8;
 $font-hover-color: #eae4d8af;
 
 $background-color: #1a2029;
 
 $code-edge-color: #474747;
 $code-background-color: #1d1d1d;
-$table-hover-color: #302A36;
+$table-hover-color: #302a36;
 
-$footer-color: #2C262E;
+$footer-color: #2c262e;
 
-$link-color: #478BE6;
+$link-color: #478be6;
 
 $header-background: #081a35;
 $header-nav: #62a0f1;
 $header-nav-hover-back: #570606;
-$header-nav-hover: #FFF8F0;
+$header-nav-hover: #fff8f0;
 
 $box-color-1: #570606;
 $box-color-1-hover: #570606a6;
 $box-color-2: #62a0f1;
 $box-color-2-hover: #62a0f1ad;
-$box-color-3: #111D4A;
+$box-color-3: #111d4a;
 $box-color-3-hover: #111d4aa4;
-$box-text-light: #FFF8F0;
+$box-text-light: #fff8f0;
 $box-text-dark: #081a35;
 
 // blå röd theme
@@ -38,6 +38,9 @@ $primary-color: #570606;
 // $accent-color-hover: #e4d2928f;
 // $offwhite-color: #62a0f1;
 // $offwhite-color-hover: #f4e8d0a1;
+
+// font
+$body-text-font: 'Montserrat', sans-serif;
 
 // mixins
 @mixin flex-container {
