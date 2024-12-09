@@ -3,7 +3,7 @@
 // nav menyn måste bli mindre när skärmen blir mindre, kanske också clamp()
 // loggan blir väldigt liten ibland, kanske måste ha en min-size?
 
-img {
+img, embed, object, video {
   max-width: 100%;
   display: block;
 }
