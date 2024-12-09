@@ -39,3 +39,9 @@ video {
     grid-template-columns: 1fr;
   }
 }
+
+@media (max-width: 1060px) {
+  .nav ul {
+    flex-wrap: wrap;
+  }
+}

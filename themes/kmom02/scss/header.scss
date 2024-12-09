@@ -30,8 +30,12 @@
 }
 
 .nav {
+  ul {
+    display: flex;
+  }
   a {
     font-size: 1.6rem;
+    // font-size: (1em, 2.5vw, 1.6em);
     text-decoration: none;
     color: $header-nav !important;
   }
