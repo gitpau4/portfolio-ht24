@@ -1,15 +1,29 @@
 ---
 Title: Gallery
 Description: This is my gallery page.
+Template: gallery
+pics:
+    - file: andraadvent
+      alt: Andra advent ljusstake
+      area: "0,25,0,0"
+    - file: snoflinga
+      alt: Snöflinga i snön
+      area: "0,0,0,0"
+    - file: trumkille
+      alt: Figur med trumma i julgran
+      area: "0,0,0,0"
+    - file: pepparkakshus
+      alt: Pepparkakshus
+      area: "0,0,0,0"
+    - file: adventljus
+      alt: Adventsljus
+      area: "0,0,0,35"
+    - file: tomtebloss
+      alt: Tomtebloss
+      area: "0,0,0,0"
 ---
 
 Galleri
 ==========================
 
-Hit ska bilder
-
-<picture>
-    <source media="(min-width: 668px)" srcset="image/adventljus.JPG?w=960&q=80">
-    <source media="(min-width: 376px)" srcset="image/adventljus.JPG?w=667&q=70">
-    <img src="image/adventljus.JPG?w=375&h=500&crop-to-fit&area=0,0,0,35&q=70" class="max-width" alt="Adventsljus">
-</picture>
+Juliga bilder som jag tagit med systemkamera.

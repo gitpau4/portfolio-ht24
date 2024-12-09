@@ -3,7 +3,10 @@
 // nav menyn måste bli mindre när skärmen blir mindre, kanske också clamp()
 // loggan blir väldigt liten ibland, kanske måste ha en min-size?
 
-img, embed, object, video {
+img,
+embed,
+object,
+video {
   max-width: 100%;
   display: block;
 }
@@ -22,5 +25,17 @@ img, embed, object, video {
   .technology .article,
   .technology .menu {
     width: 100%;
+  }
+}
+
+@media (max-width: 731px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 470px) {
+  .gallery {
+    grid-template-columns: 1fr;
   }
 }
