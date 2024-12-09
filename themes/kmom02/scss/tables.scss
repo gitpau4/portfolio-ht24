@@ -25,3 +25,14 @@ table {
     border-top: 1px solid $code-edge-color;
   }
 }
+
+.data-table.pagespeed {
+  width: 100%;
+  height: 600px;
+}
+
+.data-table.devtools {
+  width: 100%;
+  max-width: 780px;
+  height: 380px;
+}
