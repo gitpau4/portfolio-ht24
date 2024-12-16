@@ -30,11 +30,11 @@ Resultat
 
 ### Google Pagespeed mätvärden
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTITbr0eDegYQaxQjdehNiBPbH78fQENco99BjWnOCikQbtRpdB1LkdwFDssb04CoH6WHZTDhS4zmyB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="data-table pagespeed"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTITbr0eDegYQaxQjdehNiBPbH78fQENco99BjWnOCikQbtRpdB1LkdwFDssb04CoH6WHZTDhS4zmyB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" title="pagespeedData" class="data-table pagespeed"></iframe>
 
 ### Devtools mätvärden
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTITbr0eDegYQaxQjdehNiBPbH78fQENco99BjWnOCikQbtRpdB1LkdwFDssb04CoH6WHZTDhS4zmyB/pubhtml?gid=792854&amp;single=true&amp;widget=true&amp;headers=false" class="data-table devtools"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTITbr0eDegYQaxQjdehNiBPbH78fQENco99BjWnOCikQbtRpdB1LkdwFDssb04CoH6WHZTDhS4zmyB/pubhtml?gid=792854&amp;single=true&amp;widget=true&amp;headers=false" title="devtoolsData" class="data-table devtools"></iframe>
 
 ### Norrmejerei
 

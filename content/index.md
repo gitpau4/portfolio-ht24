@@ -1,7 +1,6 @@
 ---
 Title: Home
 Description: This is our index page.
-icon: fas fa-home
 ---
 
 Om mig
