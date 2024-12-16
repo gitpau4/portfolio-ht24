@@ -82,10 +82,18 @@ Som ovan beskrivet finns *grid* på några undersidor men inte framsidan. Annars
 
 Designen på min portfölj just nu är ganska standard rent layout och stil-mässigt, alltså inte så unik. Däremot en bra grund för att utveckla, och inkludera fler designprinciper för att få den att kännas mer unik och intressant. Av det jag sett i min analys skulle jag kunna inkludera designprinciperna *line*, *framing* och *transparency*.
 
+Konkreta änringar jag gjort efter analysen:
+- *Line*: Jag har lagt till en linje till höger om aside-menyn i technology-sidorna.
+- *Line*: I navbaren la jag in så att när man hovrar över en navlänk så slidar det in en linje under, la även till en linje under headerrubriken.
+- *Framing*: Ramar runt bilder (går att se i gallery eller på framsidan tex), ramstilen kallas *imperfect buttons* och hämtades från ett exempel i boken *The principles of Beautiful Web Design*, stilen gjordes av Tiffany Rayside, codepen: https://codepen.io/tmrDevelops/pen/VeRvKX.
+- *Transparency*: När man hovrar över boxarna i analyses och technologies, blir bakgrundsfärgen transparent. Man får även upp en transparent skugga.
+
+
 Referenser
 -----------------------
 
 - https://www.canva.com/learn/design-elements-principles/
+- The principles of Beautiful Web Design
 
 Övrigt
 -----------------------

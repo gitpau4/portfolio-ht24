@@ -13,6 +13,7 @@
   h1 {
     font-size: 2.5em;
     font-family: 'Prosto One', sans-serif;
+    border-bottom: 3px solid $header-nav-hover-back
   }
 
   a {
@@ -36,13 +37,23 @@
 
   a {
     font-size: 1.6rem;
-    // font-size: (1em, 2.5vw, 1.6em);
     text-decoration: none;
     color: $header-nav !important;
-  }
+    position: relative;
 
-  a:hover {
-    color: $header-nav-hover !important;
-    background-color: $header-nav-hover-back;
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 3px;
+      background-color: $header-nav-hover-back;
+      transition: width 0.3s ease-in-out;
+    }
+
+    &:hover::after {
+      width: 100%; // När man hovrar, fyll hela bredden av länken
+    }
   }
 }

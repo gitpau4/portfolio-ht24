@@ -8,7 +8,7 @@
             {{ content }}
 
             {% for analysis in meta.analyses %}
-                <a href="{{ base_url }}/analysis/{{ analysis.file }}" class="box offset {{ analysis.class }}">
+                <a href="{{ base_url }}/analysis/{{ analysis.file }}" class="box {{ analysis.class }}">
                     <h1>{{ analysis.name }}</h1>
                 </a>
             {% endfor %}

@@ -37,4 +37,9 @@ body {
   a {
     color: $link-color;
   }
+
+  img {
+    border: 5px solid $primary-color;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  }
 }
